@@ -1,0 +1,46 @@
+h1,h2,body,ul,li{
+       
+        
+    color:aqua;
+    margin:10;
+    padding:10;
+}
+body{
+    font-family: Arial, sans-serif;
+    
+    
+}
+p{
+    color: black;
+}
+
+nav{
+    color: blue;
+    text-align: center;
+}
+nav ul li a{
+    color: rgb(184, 51, 11);
+    
+
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+    list-style-type: disc;
+}
+header{
+    color:hotpink;
+}
+footer{
+    background-color: green;
+    
+}
+h4{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+ul li{
+    list-style-type: disc;
+}
